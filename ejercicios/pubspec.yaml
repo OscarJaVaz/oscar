@@ -1,0 +1,6 @@
+name: ejercicios
+description: Ejercicios lógico-matemáticos en Dart puro (sin Flutter).
+publish_to: none
+
+environment:
+  sdk: ^3.12.1
